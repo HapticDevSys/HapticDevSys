@@ -1,18 +1,21 @@
-👋 Welcome to My GitHub Page! 👋
+# 💫 About Me:
+👋 Welcome to My GitHub Page! 👋<br><br>About Me ℹ️ <br><br>Hey there! I'm HapticDevSys and I'm thrilled to have you here on my GitHub page. 🎉 I'm passionate about coding and currently involved in building an awesome FiveM server. 🚀<br><br>What I Do 💼<br><br>🐍 Python Enthusiast: I love Python for its versatility and simplicity. From web development to scripting, I'm always exploring new ways to utilize Python's power. 💻<br><br>🔧 PHP Fanatic: PHP is my go-to language for web development projects. Crafting dynamic and interactive websites is my jam! 🌐<br><br>📊 SQL Savvy: Need to manage databases efficiently? SQL is my tool of choice. I enjoy optimizing queries and ensuring data integrity. 💾<br><br>🌟 LUA Lover: Lua is at the heart of my FiveM server development. From scripting custom features to enhancing gameplay, Lua fuels my creativity. 🎮<br><br>Let's Connect! 🤝 Feel free to explore my repositories and reach out if you have any questions, suggestions, or just want to chat about coding or gaming! 📲 Don't forget to star your favorite projects! ⭐️<br><br>Happy Coding! 💻✨
 
-About Me ℹ️
-Hey there! I'm HapticDevSys and I'm thrilled to have you here on my GitHub page. 🎉 I'm passionate about coding and currently involved in building an awesome FiveM server. 🚀
 
-What I Do 💼
-🐍 Python Enthusiast: I love Python for its versatility and simplicity. From web development to scripting, I'm always exploring new ways to utilize Python's power. 💻
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HapticDevSys&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HapticDevSys&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HapticDevSys&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🔧 PHP Fanatic: PHP is my go-to language for web development projects. Crafting dynamic and interactive websites is my jam! 🌐
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-📊 SQL Savvy: Need to manage databases efficiently? SQL is my tool of choice. I enjoy optimizing queries and ensuring data integrity. 💾
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-🌟 LUA Lover: Lua is at the heart of my FiveM server development. From scripting custom features to enhancing gameplay, Lua fuels my creativity. 🎮
+---
+[![](https://visitcount.itsvg.in/api?id=HapticDevSys&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Let's Connect! 🤝
-Feel free to explore my repositories and reach out if you have any questions, suggestions, or just want to chat about coding or gaming! 📲 Don't forget to star your favorite projects! ⭐️
-
-Happy Coding! 💻✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
